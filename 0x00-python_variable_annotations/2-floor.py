@@ -10,6 +10,6 @@ def floor(n: float) -> int:
         n (float): float argument passed to function
 
     Returns:
-        float: floor of float.
+        int: floor of float.
     """
     return int(n)
