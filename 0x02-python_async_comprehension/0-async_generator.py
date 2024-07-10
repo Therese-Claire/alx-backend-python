@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Croutine that takes no args"""
+"""Coroutin that generates random numbers
+"""
+
+
 import asyncio
 import random
 
